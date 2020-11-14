@@ -23,6 +23,6 @@ print("Nice to Meet you")
 [data](data)
 [refernces](references)
 
-![markdown-image](dog-67.jpg)
+![markdown-image](dog-67.jpg = 0.5x)
 
 Welcome to the repository of FinTech assets.  Feel free to have a look around and see what I've accomplished.
