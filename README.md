@@ -23,6 +23,6 @@ print("Nice to Meet you")
 [data](data)
 [refernces](references)
 
-![markdown-image](https://jooinn.com/images/dog-67.jpg)
+![markdown-image](dog-67.jpg)
 
 Welcome to the repository of FinTech assets.  Feel free to have a look around and see what I've accomplished.
