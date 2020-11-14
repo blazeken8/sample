@@ -7,6 +7,8 @@ Hello
 
 ### FinTech Repository!!!
 
+FinTech Repository
+
 *FinTech Repository!*
 
 **FinTech Repository!**
@@ -21,9 +23,9 @@ print("Nice to Meet you")
 
 [code](code)
 [data](data)
-[refernces](references)
+[references](references)
 
-![markdown-image](dog-67.jpg =100x20)
+![markdown-image](dog-67.jpg)
 
 <img src="dog-67.jpg" alt="drawing" width="200"/>
 
